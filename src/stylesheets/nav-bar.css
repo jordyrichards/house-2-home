@@ -1,0 +1,27 @@
+
+    .contained {
+        border: 2px solid black;
+        background-color: #e8e9ea;
+        width: 100%;
+        overflow: hidden;
+        text-align: center;
+        position: fixed; 
+        margin-bottom: 30px;
+        top: 0;
+    }
+    
+    ul{
+        margin: 0;
+        width: 100%;
+        padding: 20px;
+        list-style-type: none;
+    }
+
+    li { display: inline-block; padding: 6px 60px; width: 25% }
+
+    a { 
+        font-size: 20px;
+        display: block;
+        color: black;
+        
+    }
