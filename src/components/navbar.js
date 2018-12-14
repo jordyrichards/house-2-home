@@ -7,9 +7,9 @@ export default class NavBar extends Component {
           <div className="contained">
             <ul>
               <li><a href="/">Home(Replace with Logo)</a></li>
-              <li><a href="/shop">Shop</a></li>
-              <li><a href="contact.asp">Painting + Decorating</a></li>
-              <li><a href="about.asp">Contact</a></li>
+              <li><a href="/shop">Products</a></li>
+              <li><a href="/paint-and-dec">Painting + Decorating</a></li>
+              <li><a href="contact">Contact</a></li>
             </ul>
           </div>
         );
